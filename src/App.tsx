@@ -91,7 +91,7 @@ const style: SxProps = {
   boxShadow: 24,
   display: "flex",
   flexDirection: "column",
-  justifyContent: "space-between",
+//   justifyContent: "space-between",
   p: 3,
 };
 
